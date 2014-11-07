@@ -17,7 +17,7 @@ where
 
 To verify that the apache web server is running: `curl localhost:8888`
 
-### Stopping the container
+#### Stopping the container
 
 - Running `sudo docker ps` should return somothing like the following
 
