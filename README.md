@@ -19,7 +19,7 @@ To verify that the apache web server is running: `curl localhost:8888`
 
 #### Stopping the container
 
-- Running `sudo docker ps` should return somothing like the following
+- Running `sudo docker ps` should return something like the following
 
 ```
 CONTAINER ID        IMAGE               COMMAND                CREATED             STATUS              PORTS                  NAMES
