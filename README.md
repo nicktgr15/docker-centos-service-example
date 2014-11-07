@@ -12,8 +12,8 @@ sudo docker run -d -p 8888:80 myhttpd
 
 where 
 
-- `-p 8888:80`:  exposes container's port 80 to host's 8888
-- `-d`: runs in detached mode (i.e. in the background)
+- `-p 8888:80`  exposes container's port 80 to host's 8888
+- `-d` runs in detached mode (i.e. in the background)
 
 To verify that the apache web server is running: `curl localhost:8888`
 
